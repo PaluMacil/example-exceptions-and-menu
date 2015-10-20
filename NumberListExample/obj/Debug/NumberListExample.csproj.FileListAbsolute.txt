@@ -1,0 +1,6 @@
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\bin\Debug\NumberListExample.exe.config
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\bin\Debug\NumberListExample.exe
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\bin\Debug\NumberListExample.pdb
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\obj\Debug\NumberListExample.csprojResolveAssemblyReference.cache
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\obj\Debug\NumberListExample.exe
+c:\users\dwolflcdev\documents\visual studio 2012\Projects\NumberListExample\NumberListExample\obj\Debug\NumberListExample.pdb
